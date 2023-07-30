@@ -719,6 +719,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Y Bot (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3000914573724347255, guid: 3dc2d722fe2083f4db5e4acaa98a9876,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3dc2d722fe2083f4db5e4acaa98a9876, type: 3}
 --- !u!1001 &639666256
@@ -1061,6 +1066,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Y Bot (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3000914573724347255, guid: 3dc2d722fe2083f4db5e4acaa98a9876,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3dc2d722fe2083f4db5e4acaa98a9876, type: 3}
@@ -1439,6 +1449,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Y Bot
+      objectReference: {fileID: 0}
+    - target: {fileID: 3000914573724347255, guid: 3dc2d722fe2083f4db5e4acaa98a9876,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3dc2d722fe2083f4db5e4acaa98a9876, type: 3}
